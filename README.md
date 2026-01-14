@@ -2,6 +2,8 @@
 
 Shadow Runners is a 2D maze runner game developed as a first semester group project.
 
+[![Gameplay Video](Assets/mq2.webp)](https://youtu.be/ho8ujUd7Rnc)
+
  # Tech Stack
 - C++
 - SFML
